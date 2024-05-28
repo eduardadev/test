@@ -1,0 +1,23 @@
+#conteudo {
+    background: #fd5050;
+    width: 99%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+   }
+
+   .btn {
+    background: white;
+    color: red;
+    border: none;
+    padding: 20px;
+    width: 90px;
+    border-radius: 10px;
+    font-size: 18px;
+
+   }
